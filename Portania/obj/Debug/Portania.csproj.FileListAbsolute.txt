@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\VS Projects\Portania\Portania\bin\Debug\Portania.exe.config
+C:\Users\Admin\Desktop\VS Projects\Portania\Portania\bin\Debug\Portania.exe
+C:\Users\Admin\Desktop\VS Projects\Portania\Portania\bin\Debug\Portania.pdb
+C:\Users\Admin\Desktop\VS Projects\Portania\Portania\bin\Debug\OpenTK.dll
+C:\Users\Admin\Desktop\VS Projects\Portania\Portania\bin\Debug\SunshineConsole.dll
+C:\Users\Admin\Desktop\VS Projects\Portania\Portania\bin\Debug\OpenTK.xml
+C:\Users\Admin\Desktop\VS Projects\Portania\Portania\obj\Debug\Portania.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\VS Projects\Portania\Portania\obj\Debug\Portania.Properties.Resources.resources
+C:\Users\Admin\Desktop\VS Projects\Portania\Portania\obj\Debug\Portania.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\VS Projects\Portania\Portania\obj\Debug\Portania.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\VS Projects\Portania\Portania\obj\Debug\Portania.csproj.CopyComplete
+C:\Users\Admin\Desktop\VS Projects\Portania\Portania\obj\Debug\Portania.exe
+C:\Users\Admin\Desktop\VS Projects\Portania\Portania\obj\Debug\Portania.pdb
